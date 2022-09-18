@@ -1,7 +1,7 @@
 # Bootstrap starter
 Contoh Projek Bootstrap di sertai dengan file kustom
 
-## Edit in browser
+## Hasil
 
-[![Buka di Vercel]](https://template-bootstrap-starter.vercel.app)
+[Buka Hasil Deploy](https://template-bootstrap-starter.vercel.app)
 
